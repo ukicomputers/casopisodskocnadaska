@@ -1,0 +1,9 @@
+name{
+  "ODSKOCNA_DASKA",
+  "UKICOMPUTERS"
+}
+web{
+  "https://casopisodskocnadaska.web.app"
+  FirebaseFirestore: true
+  FirebaseLoginAuth: admin
+}
