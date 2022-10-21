@@ -9,4 +9,4 @@
  - .NET Framework: 4.8
  - Aplikacija je Chromium Engine Based
     
-![reklama](https://raw.githubusercontent.com/ukicomputers/casopisodskocnadaska/main/ukicomputers_reklama01538.png)
+![reklama](https://raw.githubusercontent.com/ukicomputers/casopisodskocnadaska/main/cdn/images/ukicomputers_reklama01538.png)
